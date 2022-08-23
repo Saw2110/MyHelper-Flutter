@@ -32,3 +32,9 @@ flutter:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
  
+
+  # # Custom Widget
+  # myhelper:
+  #   git:
+  #     url: https://github.com/Saw2110/MyHelper-Flutter.git
+  #     ref: main # branch name

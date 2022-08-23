@@ -18,8 +18,6 @@ Now in your Dart code, you can use:<br>
 
 # 
 
-<br>
-
 ## Features 
  - Date Converter 
  - Print with colors 

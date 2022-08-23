@@ -7,3 +7,4 @@ export 'utils/time_ago.dart';
 export 'widget/dropdown/dropdown_classes.dart';
 export 'widget/dropdown/dropdown_menu_text.dart';
 export 'widget/my_divider.dart';
+export 'widget/my_divider.dart';

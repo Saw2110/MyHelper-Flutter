@@ -10,11 +10,13 @@ You should add the following to your `pubspec.yaml` file:
 ```yaml
 myhelper:
   git:
-    url: https://github.com/Saw2110/MyHelper-Flutter.git<br>
+    url: https://github.com/Saw2110/MyHelper-Flutter.git
     ref: main
 ```
+
 After adding the dependency to your `pubspec.yaml` you can run: `flutter packages get` or update your packages using
 your IDE.
+
 ### Getting started
 To start, import the dependency in your code:
 ```dart
